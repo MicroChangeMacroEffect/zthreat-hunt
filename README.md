@@ -238,9 +238,12 @@ Found an issue or have a suggestion? Feel free to open an issue or submit a pull
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## 👤 Author   
 
-**Your Name**
+Created using - Claude Sonnet 4.5
+
+**Zach Rossow** modified and adapted by
+update later if successful haha
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Blog: [Your Blog](https://yourblog.com)
